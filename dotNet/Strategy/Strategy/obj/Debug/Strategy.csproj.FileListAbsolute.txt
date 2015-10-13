@@ -1,0 +1,6 @@
+D:\Repositories\Patt\dotNet\Strategy\Strategy\bin\Debug\Strategy.exe.config
+D:\Repositories\Patt\dotNet\Strategy\Strategy\bin\Debug\Strategy.exe
+D:\Repositories\Patt\dotNet\Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\Repositories\Patt\dotNet\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+D:\Repositories\Patt\dotNet\Strategy\Strategy\obj\Debug\Strategy.exe
+D:\Repositories\Patt\dotNet\Strategy\Strategy\obj\Debug\Strategy.pdb
